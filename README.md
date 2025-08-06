@@ -39,3 +39,10 @@ Proyek XII RPL - Sistem manajemen hotel untuk mengelola reservasi kamar, pembaya
 2. Kelola kamar & user
 3. Approve booking
 4. Lihat laporan transaksi
+   
+## Database Design (ERD)
+- Users (Admin, Kasir, Tamu)
+- Rooms
+- Bookings
+- Payments
+- Roles
