@@ -20,8 +20,6 @@
 - **dbdiagram.io** → Desain database (ERD)
 - **HTML/CSS**, bisa dikembangkan dengan **Laravel**, **React**, atau lainnya
 
-## Alur Aktivitas Berdasarkan Role
-
 ## User (Tamu)
 1. Registrasi & login
 2. Memilih kamar dan mengajukan booking
