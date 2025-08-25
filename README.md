@@ -47,5 +47,5 @@
 - `payments`: Data transaksi pembayaran
 - `vouchers`: Kode promo (opsional)
 - `booking_vouchers`: Relasi antara booking dan voucher
-- `carts`: Data pemesanan sebelum checkout (opsional)
+- `checkout`: Melakukan Pengecekan kembali sebelum payment
 
